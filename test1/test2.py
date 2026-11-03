@@ -1,2 +1,2 @@
-nama = "iyan"
+nama = "christian"
 print(nama)
