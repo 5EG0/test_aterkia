@@ -1,0 +1,2 @@
+nama = "christian"
+print(nama)
